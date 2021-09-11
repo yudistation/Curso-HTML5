@@ -1,3 +1,3 @@
 # google-glass
 Curso de HTML, CSS e JavaScript.
-tobotica pratica
+EU ESTOU TESTANDO COMO SINCRONIZAR OS ARQUIVOS NO GITHUB!
