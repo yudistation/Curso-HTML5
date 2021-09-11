@@ -1,3 +1,3 @@
 # google-glass
 Curso de HTML, CSS e JavaScript.
-EU ESTOU TESTANDO COMO SINCRONIZAR OS ARQUIVOS NO GITHUB!
+teste saldkf sadflkajsdklfasjdflkasdjflkasdfjalksdf
