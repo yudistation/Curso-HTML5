@@ -55,9 +55,9 @@ header#cabecalho h2 {
 }
 
 header#cabecalho img#icone {
-    position: absolute;
-    left: 780px;
-    top: 70px;
+    position: relative;
+    left: 720px;
+    top: -50px;
 }
 /* Formatação de imagens com legendas*/
 
@@ -95,9 +95,9 @@ nav#menu {
 nav#menu ul {
     list-style: none;
     text-transform: uppercase;
-    position: absolute;
-    top: -20px;
-    left: 300px;
+    position: relative;
+    top: -303px;
+    left: 260px;
 }
 
 nav#menu li {
